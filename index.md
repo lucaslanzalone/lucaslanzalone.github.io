@@ -27,6 +27,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+http://github.com - automatic!
 [Link]google.com.ar
 [Google](https://www.google.com.ar/)
 
