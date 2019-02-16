@@ -24,8 +24,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[Link]google.com.ar[\Link]
-[Link]google.com.ar[Link]
+[Link]google.com.ar
+[Link](google.com.ar)
 [Link](url) and ![Image](src)
 ```
 
